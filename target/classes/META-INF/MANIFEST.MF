@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: P2PFT
+Implementation-Version: 1.0
+Built-By: cmama
+Implementation-Vendor-Id: com.uniandes.labredes
+Build-Jdk: 1.8.0_152
+Created-By: Maven Integration for Eclipse
+

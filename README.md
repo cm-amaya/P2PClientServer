@@ -17,4 +17,4 @@ En la carpeta del proyecto, correr el comando: mvn package
 
 ## Ejecutar cliente
 
-java -cp .\target\P2Pft-1.0-shaded.jar com.uniandes.labredes.Cliente <torrent path> <output dir path>
+java -cp .\target\P2Pft-1.0-shaded.jar com.uniandes.labredes.Cliente (torrent path) (output dir path)

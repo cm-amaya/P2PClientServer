@@ -1,0 +1,12 @@
+Archivo solicitado: ant
+Comienzo proceso: 17:43:51 13/10/2018
+Size: 1938.28 MB
+Chunks: 3877
+Peers: 0 - Chunks completados: 0 - Chunks pedidos: 0 - MB descargados: 0.0 - MB subidos: 0.0 - Tiempo transmision: 6 segundos
+Peers: 31 - Chunks completados: 1 - Chunks pedidos: 0 - MB descargados: 0.5 - MB subidos: 0.0 - Tiempo transmision: 18 segundos
+Peers: 31 - Chunks completados: 2 - Chunks pedidos: 0 - MB descargados: 1.0 - MB subidos: 0.0 - Tiempo transmision: 21 segundos
+Peers: 31 - Chunks completados: 3 - Chunks pedidos: 0 - MB descargados: 1.5 - MB subidos: 0.0 - Tiempo transmision: 24 segundos
+Peers: 31 - Chunks completados: 4 - Chunks pedidos: 0 - MB descargados: 2.0 - MB subidos: 0.0 - Tiempo transmision: 27 segundos
+Peers: 31 - Chunks completados: 5 - Chunks pedidos: 1 - MB descargados: 3.0 - MB subidos: 0.0 - Tiempo transmision: 34 segundos
+Peers: 31 - Chunks completados: 6 - Chunks pedidos: 0 - MB descargados: 3.5 - MB subidos: 0.0 - Tiempo transmision: 50 segundos
+Peers: 31 - Chunks completados: 7 - Chunks pedidos: 0 - MB descargados: 4.0 - MB subidos: 0.0 - Tiempo transmision: 79 segundos
